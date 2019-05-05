@@ -40,15 +40,15 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   analogWrite(22, 0);
-  analogWrite(23, 0);
+  analogWrite(23, 255);
   analogWrite(24, 0);
 
   analogWrite(25, 0);
-  analogWrite(26, 0);
+  analogWrite(26, 255);
   analogWrite(27, 0);
 
   analogWrite(28, 0);
-  analogWrite(29, 0);
+  analogWrite(29, 255);
   analogWrite(30, 0);
 
   analogWrite(31, 0);
